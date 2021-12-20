@@ -25,7 +25,7 @@ volumes:
     mode: ReadWriteOnce   
     
 properties:
-    revision : 777777777777777777
+    revision : 7777777777777777777
     POSTGRESQL_REPLICATION_MODE: master
     POSTGRESQL_DATA: /appz/data
     POSTGRESQL_CONNECTUSER: postgres
